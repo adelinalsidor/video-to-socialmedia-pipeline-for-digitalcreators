@@ -1,0 +1,5 @@
+{
+  "_note": "EXEMPLU FICTIV — copiază acest format în instagram.json cu hashtag-urile reale ale clientului. 'general' = tag-uri fixe de brand, identice pe toate platformele. 'niche' = specifice platformei/conținutului.",
+  "general": ["#SkincareOver40", "#GlowUpNaturally", "#JaneDoeBeauty", "#SimpleSkinRealGlow"],
+  "niche": ["#SkincareRoutine", "#NaturalGlow", "#EverydayBeautyTips", "#MatureSkinCare"]
+}

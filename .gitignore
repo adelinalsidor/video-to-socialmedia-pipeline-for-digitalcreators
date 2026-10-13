@@ -1,0 +1,38 @@
+# Secrete -- nu se comit niciodata
+.env
+
+# Continut real de client -- livrabil privat, nu piesa de portofoliu
+video-sursa/
+postari/
+intake/
+
+# Date reale de voce/hashtag ale clientei -- raman locale.
+# Variantele EXAMPLE-*.json / stil-scris-EXAMPLE.md sunt comise, nu astea.
+tone/stil-scris-client.md
+tone/client-completare.txt
+tone/client-hashtags.txt
+strategy/hashtags/instagram.json
+strategy/hashtags/tiktok-reels.json
+strategy/hashtags/youtube-shorts.json
+strategy/hashtags/youtube.json
+
+# Fisiere de test locale (trigger n8n), nu fac parte din livrabil
+test-2.txt
+test-3.txt
+test-video-fake.txt
+
+# Documente interne de planificare/proces -- context intern, nu piesa de portofoliu
+docs/plans/
+plan-portofoliu-v1.md
+
+# Copii locale RO ale README/CLAUDE.md (varianta EN e cea publica pe GitHub)
+README.ro.md
+CLAUDE.ro.md
+
+# Python / cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
